@@ -3,10 +3,6 @@
 
 #include <iostream>
 #include "Player.generated.h"
-
-// Include SwapTile functionality from MyGameMode
-#include "MyGameMode.h"
-
 UCLASS()
 class TOURNAMENTAL_API APlayer
 {
